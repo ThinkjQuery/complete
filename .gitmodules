@@ -7,3 +7,33 @@
 [submodule "chapter2"]
 	path = chapter2
 	url = https://github.com/ThinkjQuery/chapter2
+[submodule "chapter3"]
+	path = chapter3
+	url = https://github.com/ThinkjQuery/chapter3
+[submodule "chapter4"]
+	path = chapter4
+	url = https://github.com/ThinkjQuery/chapter4
+[submodule "chapter5"]
+	path = chapter5
+	url = https://github.com/ThinkjQuery/chapter5
+[submodule "chapter6"]
+	path = chapter6
+	url = https://github.com/ThinkjQuery/chapter6
+[submodule "chapter7"]
+	path = chapter7
+	url = https://github.com/ThinkjQuery/chapter7
+[submodule "chapter8"]
+	path = chapter8
+	url = https://github.com/ThinkjQuery/chapter8
+[submodule "chapter9"]
+	path = chapter9
+	url = https://github.com/ThinkjQuery/chapter9
+[submodule "chapter10"]
+	path = chapter10
+	url = https://github.com/ThinkjQuery/chapter10
+[submodule "chapter11"]
+	path = chapter11
+	url = https://github.com/ThinkjQuery/chapter11
+[submodule "chapter12"]
+	path = chapter12
+	url = https://github.com/ThinkjQuery/chapter12
