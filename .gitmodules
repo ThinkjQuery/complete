@@ -1,0 +1,3 @@
+[submodule "chapter1"]
+	path = chapter1
+	url = https://github.com/ThinkjQuery/chapter1
